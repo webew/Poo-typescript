@@ -5,3 +5,7 @@
 - Votre code doit être maintenable.
 - Créez un nouveau genre de formulaire : formulaire d’inscription (pseudo, email, mot de passe).
 - Utilisez votre structure de code pour formatter ce nouveau formulaire.
+
+Pour utiliser fs :
+
+**npm i -D @types/node**
