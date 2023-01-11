@@ -6,6 +6,6 @@
 - Créez un nouveau genre de formulaire : formulaire d’inscription (pseudo, email, mot de passe).
 - Utilisez votre structure de code pour formatter ce nouveau formulaire.
 
-Pour utiliser fs :
+Pour exécuter main.ts :
 
-**npm i -D @types/node**
+ts-node main.ts
